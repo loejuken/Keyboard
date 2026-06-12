@@ -5,283 +5,6 @@
 	(uuid "0bb5d168-43f4-4226-afbd-c8dc4c710419")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Connector:AVR-ISP-6"
-			(pin_names
-				(offset 1.016)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at -6.35 11.43 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Value" "AVR-ISP-6"
-				(at 0 11.43 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left)
-				)
-			)
-			(property "Footprint" ""
-				(at -6.35 1.27 90)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at -32.385 -13.97 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Atmel 6-pin ISP connector"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "AVR ISP Connector"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "IDC?Header*2x03* Pin?Header*2x03*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "AVR-ISP-6_0_1"
-				(rectangle
-					(start -2.667 10.16)
-					(end -2.413 9.398)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -2.667 -6.858)
-					(end -2.413 -7.62)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 7.62 10.16)
-					(end -7.62 -7.62)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start 7.62 5.207)
-					(end 6.858 4.953)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 7.62 2.667)
-					(end 6.858 2.413)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 7.62 0.127)
-					(end 6.858 -0.127)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 7.62 -2.413)
-					(end 6.858 -2.667)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "AVR-ISP-6_1_1"
-				(pin passive line
-					(at 10.16 5.08 180)
-					(length 2.54)
-					(name "MISO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 12.7 270)
-					(length 2.54)
-					(name "VCC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 0 180)
-					(length 2.54)
-					(name "SCK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 2.54 180)
-					(length 2.54)
-					(name "MOSI"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 10.16 -2.54 180)
-					(length 2.54)
-					(name "~{RST}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -2.54 -10.16 90)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C_Small"
 			(pin_numbers
 				(hide yes)
@@ -3353,8 +3076,20 @@
 		(uuid "916bf54b-5da7-467d-a275-9904ccebe1e3")
 	)
 	(no_connect
+		(at 109.22 43.18)
+		(uuid "919ef80a-ab85-4eb1-a865-57547dcbe2ef")
+	)
+	(no_connect
+		(at 109.22 71.12)
+		(uuid "c214bf56-24cc-4d23-8787-0d18524b0a71")
+	)
+	(no_connect
 		(at 78.74 50.8)
 		(uuid "c4c86553-6a91-4e8d-a21a-ebd12c59ecd3")
+	)
+	(no_connect
+		(at 109.22 78.74)
+		(uuid "d816a9f0-b637-4508-9a4c-36688577c893")
 	)
 	(wire
 		(pts
@@ -4156,7 +3891,7 @@
 	)
 	(global_label "Col 11"
 		(shape input)
-		(at 109.22 76.2 0)
+		(at 109.22 81.28 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4166,7 +3901,7 @@
 		)
 		(uuid "07b7bb21-9114-4d8b-92c2-1d0924126a5a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.676 76.2 0)
+			(at 118.676 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4191,30 +3926,6 @@
 		(uuid "07d122c1-fdd6-4397-83fc-4ecb9cb10f82")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 118.1318 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "MISO"
-		(shape input)
-		(at 53.34 76.2 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "09adea76-095d-4da6-b943-e38f79dac12d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.9214 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4370,30 +4081,6 @@
 			)
 		)
 	)
-	(global_label "MOSI"
-		(shape input)
-		(at 53.34 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "3df504ad-95f0-4758-b472-4f9ad3e557ed")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.9214 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "XTAL2"
 		(shape input)
 		(at 78.74 45.72 180)
@@ -4455,30 +4142,6 @@
 		(uuid "516bf37a-a0b2-4cfa-95e6-22428610092b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 117.4665 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "RESET"
-		(shape input)
-		(at 53.34 83.82 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "53860c51-93f4-459c-b363-d382aac2ce3d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.0703 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4588,7 +4251,7 @@
 	)
 	(global_label "Col 9"
 		(shape input)
-		(at 109.22 71.12 0)
+		(at 109.22 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4598,7 +4261,7 @@
 		)
 		(uuid "902ea82a-7dae-412c-b400-3fc7b4477e62")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 117.4665 71.12 0)
+			(at 117.4665 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4612,7 +4275,7 @@
 	)
 	(global_label "Col 13"
 		(shape input)
-		(at 109.22 81.28 0)
+		(at 109.22 38.1 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4622,7 +4285,7 @@
 		)
 		(uuid "99f74821-cfca-4da1-8460-ca605ebfcea9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.676 81.28 0)
+			(at 118.676 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4732,7 +4395,7 @@
 	)
 	(global_label "Col 10"
 		(shape input)
-		(at 109.22 73.66 0)
+		(at 109.22 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4742,7 +4405,7 @@
 		)
 		(uuid "dbf26d97-d068-451d-ae48-0b6b962db537")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.676 73.66 0)
+			(at 118.676 76.2 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4756,7 +4419,7 @@
 	)
 	(global_label "Col 12"
 		(shape input)
-		(at 109.22 78.74 0)
+		(at 109.22 83.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4766,7 +4429,7 @@
 		)
 		(uuid "e29fa854-2f51-42fc-a2ef-30cbec27b201")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.676 78.74 0)
+			(at 118.676 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4874,33 +4537,9 @@
 			)
 		)
 	)
-	(global_label "SCK"
-		(shape input)
-		(at 53.34 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "f43885c1-e9c7-41df-aa66-1d79b9531b11")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.0747 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "Col 14"
 		(shape input)
-		(at 109.22 83.82 0)
+		(at 109.22 40.64 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4910,7 +4549,7 @@
 		)
 		(uuid "f9dde47d-3340-4062-9800-c9cecad27f87")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.676 83.82 0)
+			(at 118.676 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5019,84 +4658,6 @@
 			(project "ai03-pcb-guide"
 				(path "/0bb5d168-43f4-4226-afbd-c8dc4c710419"
 					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 40.64 68.58 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "064b5640-cddb-473e-9e21-e7de002a8a7b")
-		(property "Reference" "#PWR06"
-			(at 40.64 72.39 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "+5V"
-			(at 40.64 63.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 40.64 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 40.64 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 40.64 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "4d58c3d1-095f-4393-9192-13a289815b17")
-		)
-		(instances
-			(project "ai03-pcb-guide"
-				(path "/0bb5d168-43f4-4226-afbd-c8dc4c710419"
-					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -5214,7 +4775,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 39.37 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -5296,7 +4857,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 30.48 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -5378,7 +4939,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 69.85 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -5460,7 +5021,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 50.8 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -5542,7 +5103,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 20.32 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -5622,7 +5183,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 121.92 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -5702,7 +5263,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 26.67 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -5781,7 +5342,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 26.67 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -5863,7 +5424,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SOD-123"
 			(at 60.96 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -6021,7 +5582,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MX_Only:MXOnly-1U"
 			(at 33.02 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -6101,7 +5662,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "random-keyboard-parts:SOT143B"
 			(at 93.98 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -6188,7 +5749,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 109.22 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -6270,7 +5831,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 40.64 115.57 0)
 			(hide yes)
 			(show_name no)
@@ -6585,7 +6146,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 72.39 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -6742,7 +6303,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 109.22 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -6791,100 +6352,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector:AVR-ISP-6")
-		(at 43.18 81.28 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8b342633-88df-4838-81f5-81ab02bd5cef")
-		(property "Reference" "J1"
-			(at 34.29 78.7399 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "AVR-ISP-6"
-			(at 34.29 81.2799 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" ""
-			(at 36.83 80.01 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 10.795 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Atmel 6-pin ISP connector"
-			(at 43.18 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "4"
-			(uuid "43bd09ad-2c53-4d1c-8c29-38e0437a056e")
-		)
-		(pin "6"
-			(uuid "da7513ef-3cb3-40cb-89ad-4a7f9b4c6ff0")
-		)
-		(pin "1"
-			(uuid "cff93035-ce67-4bf8-b504-86a095331b4c")
-		)
-		(pin "3"
-			(uuid "24044940-70d6-43e9-bfd8-0271ac678cef")
-		)
-		(pin "2"
-			(uuid "1abac9f7-e4f0-4b59-a41f-64ec08b050b9")
-		)
-		(pin "5"
-			(uuid "c6a3afc2-5051-47bd-8a3c-694c220c5f41")
-		)
-		(instances
-			(project "ai03-pcb-guide"
-				(path "/0bb5d168-43f4-4226-afbd-c8dc4c710419"
-					(reference "J1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:Crystal_GND24_Small")
 		(at 34.29 48.26 270)
 		(unit 1)
@@ -6918,7 +6385,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 34.29 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7026,7 +6493,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Type-C:HRO-TYPE-C-31-M-12"
 			(at 49.53 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -7582,7 +7049,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 76.2 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -7662,7 +7129,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1206_3216Metric"
 			(at 76.2 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -8172,84 +7639,6 @@
 			(project "ai03-pcb-guide"
 				(path "/0bb5d168-43f4-4226-afbd-c8dc4c710419"
 					(reference "#PWR05")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 40.64 91.44 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f2a8f571-0c95-4516-a946-f87f3f02239d")
-		(property "Reference" "#PWR09"
-			(at 40.64 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 40.64 96.52 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 40.64 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 40.64 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 40.64 91.44 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b2c93120-b67d-418f-b1c7-9560c3b730e2")
-		)
-		(instances
-			(project "ai03-pcb-guide"
-				(path "/0bb5d168-43f4-4226-afbd-c8dc4c710419"
-					(reference "#PWR09")
 					(unit 1)
 				)
 			)
