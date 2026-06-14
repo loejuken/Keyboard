@@ -4245,7 +4245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-2.25U"
+		(property "Footprint" "MX_Only:MXOnly-2.25U-ReversedStabilizers-NoLED"
 			(at 36.83 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -13521,7 +13521,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Only:MXOnly-6U"
+		(property "Footprint" "MX_Only:MXOnly-6U-ReversedStabilizers-NoLED"
 			(at 113.03 134.62 0)
 			(hide yes)
 			(show_name no)

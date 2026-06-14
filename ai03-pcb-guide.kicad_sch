@@ -2408,6 +2408,12 @@
 		(uuid "1d4c77a3-d5bf-4f90-9735-f30b7389a345")
 	)
 	(junction
+		(at 33.02 104.14)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2b0b386d-9edd-42e6-b447-4c4c06b50668")
+	)
+	(junction
 		(at 93.98 27.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2418,18 +2424,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "40704fea-68d1-4dec-9ca4-54b4edc8374e")
-	)
-	(junction
-		(at 33.02 104.14)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "41d247bd-59c5-4b66-afd5-a61b032f7c4b")
-	)
-	(junction
-		(at 33.02 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "60e3bfc0-90be-4ce5-9e49-4a324bc63cae")
 	)
 	(junction
 		(at 43.18 104.14)
@@ -2450,22 +2444,16 @@
 		(uuid "902ff057-f525-4f84-90a4-db086928f7d0")
 	)
 	(junction
-		(at 53.34 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9bd0ba5f-3c47-4970-981e-836c9dfc6bf2")
-	)
-	(junction
 		(at 44.45 72.39)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a67f8052-cf7f-4519-a0dc-7060d44625d3")
 	)
 	(junction
-		(at 53.34 104.14)
+		(at 33.02 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "bf05320c-2e09-4422-9cb5-436292ca7e83")
+		(uuid "b1edbb25-895b-4e1d-b0f9-0fa19022024a")
 	)
 	(junction
 		(at 24.13 50.8)
@@ -2567,16 +2555,6 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 99.06) (xy 53.34 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23753c3e-5efe-441d-b909-a63aed55f0f6")
-	)
-	(wire
-		(pts
 			(xy 33.02 99.06) (xy 43.18 99.06)
 		)
 		(stroke
@@ -2607,7 +2585,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 99.06) (xy 63.5 99.06)
+			(xy 43.18 99.06) (xy 54.61 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2637,7 +2615,7 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 104.14) (xy 63.5 104.14)
+			(xy 43.18 104.14) (xy 54.61 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2744,16 +2722,6 @@
 			(type default)
 		)
 		(uuid "7ab9d6cb-b82f-4d28-b270-57af12d09599")
-	)
-	(wire
-		(pts
-			(xy 43.18 104.14) (xy 53.34 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f5d2a57-f510-43f2-a1d1-1892e137ae59")
 	)
 	(wire
 		(pts
@@ -3969,6 +3937,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 39.37 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e627b23f-1196-4ceb-871f-1e090900b950")
 		)
@@ -4040,6 +4019,17 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04, script generated"
+			(at 50.8 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "connector/SMD_single_row_plus_mounting_pad"
 			(at 50.8 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -4138,6 +4128,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 33.02 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "50e87e7f-e3ac-4506-b51e-b8b122163d51")
 		)
@@ -4220,6 +4221,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 69.85 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d97f6af7-a585-4064-a1e1-4a02137615fb")
 		)
@@ -4230,88 +4242,6 @@
 			(project "ai03-pcb-guide"
 				(path "/0bb5d168-43f4-4226-afbd-c8dc4c710419"
 					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C_Small")
-		(at 53.34 101.6 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "138519e4-62d1-4535-8fac-652a3b832c81")
-		(property "Reference" "C7"
-			(at 55.88 100.3362 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.1uF"
-			(at 55.88 102.8762 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 53.34 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 53.34 101.6 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "ca511ce6-1a94-47a9-be65-9be8d1482628")
-		)
-		(pin "1"
-			(uuid "fb00ef92-0661-4365-8264-19d1af000575")
-		)
-		(instances
-			(project "ai03-pcb-guide"
-				(path "/0bb5d168-43f4-4226-afbd-c8dc4c710419"
-					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -4372,6 +4302,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 34.29 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 34.29 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -4464,6 +4405,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 22.86 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "17b8b177-a049-4fa5-b705-377a5bb984e7")
 		)
@@ -4534,6 +4486,17 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 121.92 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 121.92 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -4624,6 +4587,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 26.67 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6d69075b-b43f-4c13-97fe-4b823bdc079f")
 		)
@@ -4703,6 +4677,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 26.67 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "24c0ffbb-c99f-48d4-88c9-b0ec21c56384")
 		)
@@ -4720,7 +4705,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 63.5 101.6 0)
+		(at 54.61 101.6 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4730,8 +4715,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "35d78056-4f29-4465-8248-305fa35acd33")
-		(property "Reference" "C8"
-			(at 66.04 100.3362 0)
+		(property "Reference" "C7"
+			(at 57.15 100.3362 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4742,7 +4727,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 66.04 102.8762 0)
+			(at 57.15 102.8762 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4753,7 +4738,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 63.5 101.6 0)
+			(at 54.61 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4764,7 +4749,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 101.6 0)
+			(at 54.61 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4775,7 +4760,18 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 63.5 101.6 0)
+			(at 54.61 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 54.61 101.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4794,7 +4790,7 @@
 		(instances
 			(project "ai03-pcb-guide"
 				(path "/0bb5d168-43f4-4226-afbd-c8dc4c710419"
-					(reference "C8")
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -5103,6 +5099,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 43.18 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8d7bb877-40f3-44c6-b194-42b7f7082ecd")
 		)
@@ -5340,6 +5347,17 @@
 				)
 			)
 		)
+		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 34.29 77.47 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "86002f22-3aa2-4833-a76b-8f04a385058f")
 		)
@@ -5422,21 +5440,10 @@
 				)
 			)
 		)
-		(property private "KLC_S3.3" "The rectangle is not a symbol body but a graphical element"
-			(at 24.13 48.26 0)
+		(property "KiLib_Generator" "crystal_resonator_oscillator"
+			(at 34.29 48.26 0)
 			(hide yes)
-			(show_name yes)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property private "KLC_S4.1" "Some pins are on 50mil grid to make the symbol small"
-			(at 21.59 48.26 0)
-			(hide yes)
-			(show_name yes)
+			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
@@ -5523,6 +5530,17 @@
 			)
 		)
 		(property "Description" "16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44"
+			(at 93.98 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KiLib_Generator" "package/gullwing"
 			(at 93.98 73.66 0)
 			(hide yes)
 			(show_name no)
