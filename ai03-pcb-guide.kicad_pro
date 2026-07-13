@@ -554,6 +554,10 @@
       {
         "netclass": "Power",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "VCC"
       }
     ]
   },
@@ -709,7 +713,7 @@
         "uuid": "0bb5d168-43f4-4226-afbd-c8dc4c710419"
       }
     ],
-    "used_designators": "J2,#PWR13-14",
+    "used_designators": "R5-7,J2-3,#PWR13-16,C8",
     "variants": []
   },
   "sheets": [
