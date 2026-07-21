@@ -4488,7 +4488,7 @@
 	)
 	(global_label "+5V"
 		(shape input)
-		(at 92.71 170.18 180)
+		(at 92.71 177.8 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4498,7 +4498,7 @@
 		)
 		(uuid "57249b2a-2ae8-4971-bf89-5b6c3f517720")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 85.8543 170.18 0)
+			(at 85.8543 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4752,7 +4752,7 @@
 	)
 	(global_label "GND"
 		(shape input)
-		(at 92.71 172.72 180)
+		(at 92.71 167.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4762,7 +4762,7 @@
 		)
 		(uuid "a7d80adc-0179-4e44-9c13-ba9439827b9e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 85.8543 172.72 0)
+			(at 85.8543 167.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4824,7 +4824,7 @@
 	)
 	(global_label "CLK"
 		(shape input)
-		(at 92.71 167.64 180)
+		(at 92.71 172.72 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4834,7 +4834,7 @@
 		)
 		(uuid "acdf0462-cc81-48d1-bbc9-99118245ff22")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.1567 167.64 0)
+			(at 86.1567 172.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4872,7 +4872,7 @@
 	)
 	(global_label "RST"
 		(shape input)
-		(at 92.71 177.8 180)
+		(at 92.71 175.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4882,7 +4882,7 @@
 		)
 		(uuid "be05bbc2-ac37-499a-a00d-49009191169e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 86.2777 177.8 0)
+			(at 86.2777 175.26 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5016,7 +5016,7 @@
 	)
 	(global_label "D"
 		(shape input)
-		(at 92.71 175.26 180)
+		(at 92.71 170.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5026,7 +5026,7 @@
 		)
 		(uuid "da3a3612-fc33-4841-8b8d-98cee953bd13")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 88.4548 175.26 0)
+			(at 88.4548 170.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
