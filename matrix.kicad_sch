@@ -2837,6 +2837,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 77.47 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "db76411d-31f7-4b28-9eba-b31ba9f5df3d")
 		)
@@ -2907,6 +2918,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 189.23 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 189.23 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -3020,6 +3042,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 199.39 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ec08569b-adf5-4724-8fd3-37f875c02c3c")
 		)
@@ -3123,6 +3156,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 123.19 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "431f014f-0311-477b-9e05-71bb83f2f9f4")
 		)
@@ -3203,6 +3247,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 204.47 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "800fc72a-49c2-4f2d-80b2-04da0455be3b")
 		)
@@ -3273,6 +3328,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 36.83 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 36.83 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -3386,6 +3452,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 46.99 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ac1178ae-3dc3-4259-bd07-aceec992f91c")
 		)
@@ -3489,6 +3566,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 92.71 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a07dd3be-6744-4ae9-b0b6-fe36775ed4ba")
 		)
@@ -3559,6 +3647,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 173.99 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 173.99 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -3672,6 +3771,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 168.91 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "e3987681-da46-4163-8a5b-52572fc1a0f5")
 		)
@@ -3766,6 +3876,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 168.91 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C83528"
+			(at 168.91 90.17 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3878,6 +3999,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 46.99 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4e2526f4-2cd9-4231-9d72-438230f29a50")
 		)
@@ -3948,6 +4080,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 234.95 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 234.95 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -4038,6 +4181,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 189.23 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5ae81899-8a04-4e11-9b6c-da8be220716b")
 		)
@@ -4108,6 +4262,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 82.55 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 82.55 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -4198,6 +4363,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 113.03 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2ff87031-13e3-45f2-884a-cc391cf0452a")
 		)
@@ -4268,6 +4444,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 36.83 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 36.83 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -4358,6 +4545,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 113.03 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cb36b25d-1670-4d2a-8cd5-ca88b3743bec")
 		)
@@ -4438,6 +4636,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 128.27 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a4b0a1b3-b096-45b0-a73c-6b49544a8feb")
 		)
@@ -4508,6 +4717,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 82.55 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 82.55 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -4621,6 +4841,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 92.71 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "aa951a35-3308-4ff8-a220-ab9072e76488")
 		)
@@ -4701,6 +4932,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 36.83 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4c0dda28-3f0c-4a62-98ed-01594c513e16")
 		)
@@ -4771,6 +5013,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 219.71 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 219.71 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -4884,6 +5137,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 77.47 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9671d36f-d30c-4299-a319-6c4681d3d9cf")
 		)
@@ -4987,6 +5251,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 62.23 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "172e810c-d529-4be8-bed7-4810e8ceb8b0")
 		)
@@ -5057,6 +5332,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 52.07 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 52.07 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -5170,6 +5456,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 107.95 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c9eef976-26d9-4c7f-babd-01cb9903fc30")
 		)
@@ -5273,6 +5570,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 123.19 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cf687914-073f-48ac-b8e2-5eb87fdebbdd")
 		)
@@ -5343,6 +5651,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 173.99 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 173.99 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -5456,6 +5775,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 107.95 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "03ee8170-5a6d-450f-98ab-0196ee1b644c")
 		)
@@ -5526,6 +5856,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 173.99 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 173.99 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -5616,6 +5957,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 128.27 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9b96c926-02c1-4787-980e-5bd52e812f4b")
 		)
@@ -5696,6 +6048,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 189.23 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f12593b3-53de-485d-8e2f-da32600785cb")
 		)
@@ -5766,6 +6129,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 128.27 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 128.27 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -5879,6 +6253,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 107.95 154.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8944ccba-64d8-4b78-b1ff-d1dba2e5a72f")
 		)
@@ -5949,6 +6334,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 143.51 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 143.51 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -6062,6 +6458,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 31.75 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "039957ae-b8e0-4eff-be00-d4d78651ec6a")
 		)
@@ -6156,6 +6563,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 153.67 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C83528"
+			(at 153.67 90.17 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6268,6 +6686,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 92.71 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "494e1083-2e3b-43f2-8a09-36ccec87bd35")
 		)
@@ -6371,6 +6800,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 31.75 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "63ee5db5-5349-4998-acbb-1898dfe24b2d")
 		)
@@ -6441,6 +6881,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 128.27 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 128.27 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -6554,6 +7005,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 123.19 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "47d45ba3-afbe-4195-b1e7-4f94bd7f0d07")
 		)
@@ -6634,6 +7096,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 97.79 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "79e67a5b-9b55-4161-819c-7d0b879fc304")
 		)
@@ -6704,6 +7177,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 128.27 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 128.27 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -6817,6 +7301,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 46.99 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6dafa319-d264-40ee-976f-be4347d0e2c5")
 		)
@@ -6920,6 +7415,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 245.11 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1c1dcd6e-b6ad-49a4-ab24-cca25c0e2d5c")
 		)
@@ -7000,6 +7506,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 158.75 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6753ae3a-def1-4afe-b142-023d8f03e9f9")
 		)
@@ -7070,6 +7587,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 143.51 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 143.51 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -7183,6 +7711,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 123.19 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "ad5b1d0f-6945-4935-bc76-0bf811605701")
 		)
@@ -7286,6 +7825,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 31.75 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "beeb5cfb-4ede-4a99-adfa-12e6362b10c2")
 		)
@@ -7356,6 +7906,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 250.19 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 250.19 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -7469,6 +8030,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 138.43 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7fd1c507-1939-4575-baed-4db7ea2438e1")
 		)
@@ -7539,6 +8111,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 234.95 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 234.95 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -7652,6 +8235,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 214.63 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "07b1b545-c0c0-4674-a26d-ea737fb189e5")
 		)
@@ -7746,6 +8340,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 168.91 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C83528"
+			(at 168.91 46.99 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7858,6 +8463,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 123.19 154.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f4a22fc9-c998-4184-993b-90d11166412e")
 		)
@@ -7961,6 +8577,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 214.63 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c2af7516-a7af-4557-87d1-e67caeb1dbf9")
 		)
@@ -8031,6 +8658,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 52.07 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 52.07 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -8144,6 +8782,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 153.67 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d6522b95-2d3f-4b5c-b758-6e7c3f1fafe8")
 		)
@@ -8214,6 +8863,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 36.83 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 36.83 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -8327,6 +8987,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 107.95 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "7ad8806e-ed84-45c6-97de-1e991eebcfb8")
 		)
@@ -8421,6 +9092,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 107.95 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C83528"
+			(at 107.95 111.76 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8533,6 +9215,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 46.99 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b217f619-e1cd-4480-a5fe-cb9d7982eed3")
 		)
@@ -8603,6 +9296,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 97.79 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 97.79 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -8693,6 +9397,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 189.23 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "38001bad-c1ff-46d2-9cdc-281fa5f5ac4d")
 		)
@@ -8763,6 +9478,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 143.51 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 143.51 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -8876,6 +9602,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 199.39 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9b6b3d3f-cb44-4102-bf52-c53e1b0868d0")
 		)
@@ -8970,6 +9707,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 77.47 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C83528"
+			(at 77.47 90.17 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9082,6 +9830,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 184.15 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dcbf63f2-0b4f-430d-b51d-c57e95adc805")
 		)
@@ -9185,6 +9944,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 245.11 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "1f3cdc6e-e719-4530-b6e0-7707849bb9e0")
 		)
@@ -9255,6 +10025,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 67.31 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 67.31 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -9345,6 +10126,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 113.03 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "48f4d28d-fde7-4366-bc82-3c73fbb500e1")
 		)
@@ -9415,6 +10207,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 173.99 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 173.99 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -9528,6 +10331,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 184.15 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c23bce24-45cf-48e7-b908-62a96393f1af")
 		)
@@ -9622,6 +10436,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 153.67 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C83528"
+			(at 153.67 46.99 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9734,6 +10559,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 138.43 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d1dd12af-30d0-413d-9dd8-ac0a5a9ac550")
 		)
@@ -9804,6 +10640,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 219.71 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 219.71 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -9894,6 +10741,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 250.19 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cb5aa3b4-5eaf-4b54-aee1-df27a1a5cbc5")
 		)
@@ -9964,6 +10822,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 158.75 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 158.75 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -10077,6 +10946,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 184.15 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f6871843-4b5a-4131-9654-0b52d7489fb9")
 		)
@@ -10180,6 +11060,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 62.23 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3c411e94-1571-493f-9b7a-495e825259fd")
 		)
@@ -10250,6 +11141,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 52.07 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 52.07 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -10363,6 +11265,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 245.11 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9bc0b2c9-4733-40c5-a9e6-a6f541fef715")
 		)
@@ -10466,6 +11379,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 229.87 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b9b36201-3f6d-40aa-b3aa-d9238196b2ce")
 		)
@@ -10536,6 +11460,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 219.71 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 219.71 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -10626,6 +11561,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 67.31 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cb8cf189-52ed-4219-9c98-1191336570e0")
 		)
@@ -10696,6 +11642,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 189.23 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 189.23 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -10786,6 +11743,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 204.47 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a66cf60d-66b6-47d1-9b7f-bc241169accb")
 		)
@@ -10856,6 +11824,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 97.79 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 97.79 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -10969,6 +11948,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 184.15 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6ec2b8da-9ca6-427a-836e-a6301aebda53")
 		)
@@ -11063,6 +12053,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 168.91 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C83528"
+			(at 168.91 68.58 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11175,6 +12176,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 46.99 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d3fd7892-f8d5-46b7-a34c-0444ed13d1e0")
 		)
@@ -11269,6 +12281,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 92.71 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C83528"
+			(at 92.71 154.94 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11381,6 +12404,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 31.75 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b5c977bd-3f22-4d76-9644-20e426443423")
 		)
@@ -11475,6 +12509,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 62.23 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C83528"
+			(at 62.23 46.99 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11587,6 +12632,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 229.87 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "90bba141-8cd6-454f-8606-7519b646511f")
 		)
@@ -11657,6 +12713,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 67.31 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 67.31 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -11770,6 +12837,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 138.43 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "320cda82-97e2-4060-8cb6-6ceb3755d254")
 		)
@@ -11864,6 +12942,17 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 138.43 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C83528"
+			(at 138.43 46.99 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11976,6 +13065,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 31.75 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4911f899-81eb-49b6-a504-1a3d6b6525d2")
 		)
@@ -12056,6 +13156,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 36.83 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "73fa64d1-39d0-4a62-b00b-2f6a8913a0af")
 		)
@@ -12126,6 +13237,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 97.79 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 97.79 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -12239,6 +13361,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 153.67 111.76 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0a6b9506-ac20-49fe-8b02-c1dc8ba9552b")
 		)
@@ -12309,6 +13442,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 143.51 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 143.51 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -12399,6 +13543,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 113.03 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a5c07b87-7ff4-4b82-af7b-c6d15f08daa6")
 		)
@@ -12479,6 +13634,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 67.31 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "0c81a3b2-696a-40af-afa2-e40e383a917d")
 		)
@@ -12549,6 +13715,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 158.75 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 158.75 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -12662,6 +13839,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 77.47 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "8268f529-4f50-4b7e-829a-22c9f787c824")
 		)
@@ -12765,6 +13953,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 92.71 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f8ca7673-7f02-4090-84d6-24d1707bd7b9")
 		)
@@ -12835,6 +14034,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 204.47 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 204.47 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -12948,6 +14158,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 62.23 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "41ae98ff-45e7-461c-9bf1-a19cd3961ba1")
 		)
@@ -13028,6 +14249,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 97.79 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "b1f6e392-6ad6-43bd-ba8f-654c70981075")
 		)
@@ -13098,6 +14330,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 173.99 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 173.99 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -13211,6 +14454,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 107.95 68.58 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "78a01393-f631-4674-ad6e-ec613fcd25a0")
 		)
@@ -13291,6 +14545,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 113.03 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "2dee0b89-9c8b-48ad-aa2d-f70b5ac1d1de")
 		)
@@ -13361,6 +14626,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 250.19 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 250.19 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -13474,6 +14750,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 199.39 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f8091d0c-3269-426d-b591-940bf92e4a31")
 		)
@@ -13544,6 +14831,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 113.03 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 113.03 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -13657,6 +14955,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 214.63 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d1c900f2-c98f-4c44-b89f-7cae27d70d3e")
 		)
@@ -13727,6 +15036,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 52.07 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 52.07 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -13840,6 +15160,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 184.15 90.17 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "3a2c29b1-d35e-42c7-8006-3b259256d39a")
 		)
@@ -13910,6 +15241,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 158.75 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 158.75 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -14023,6 +15365,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C83528"
+			(at 168.91 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "f264b21a-cc0e-41ab-be65-f75e27eeb6e5")
 		)
@@ -14093,6 +15446,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 52.07 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 52.07 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -14183,6 +15547,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 82.55 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "623f45c5-b0b6-4628-a976-156023219bd8")
 		)
@@ -14253,6 +15628,17 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
+			(at 82.55 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" ""
 			(at 82.55 64.77 0)
 			(hide yes)
 			(show_name no)

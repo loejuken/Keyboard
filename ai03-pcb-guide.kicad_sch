@@ -5578,6 +5578,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C724177"
+			(at 97.79 172.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "fa59a9fb-0a11-47d9-a1e4-28b77beb4221")
 		)
@@ -5680,6 +5691,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C25804"
+			(at 39.37 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e627b23f-1196-4ceb-871f-1e090900b950")
 		)
@@ -5762,6 +5784,17 @@
 			)
 		)
 		(property "KiLib_Generator" "connector/SMD_single_row_plus_mounting_pad"
+			(at 50.8 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C588524"
 			(at 50.8 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -5871,6 +5904,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C14663"
+			(at 33.02 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "50e87e7f-e3ac-4506-b51e-b8b122163d51")
 		)
@@ -5954,6 +5998,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 69.85 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C15849"
 			(at 69.85 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -6055,6 +6110,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23345"
+			(at 34.29 74.93 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f532f16c-1c55-44bc-9cbe-b6a9c5d0390e")
 		)
@@ -6138,6 +6204,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 22.86 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C14663"
 			(at 22.86 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6317,6 +6394,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C25804"
+			(at 121.92 88.9 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "abbf7e37-a314-48a6-b4e3-e6fe223aedd3")
 		)
@@ -6399,6 +6487,17 @@
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
 			(at 26.67 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C1653"
+			(at 26.67 45.72 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6498,6 +6597,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C1653"
+			(at 26.67 50.8 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "24c0ffbb-c99f-48d4-88c9-b0ec21c56384")
 		)
@@ -6581,6 +6691,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 54.61 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C19702"
 			(at 54.61 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6905,6 +7026,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C115351"
+			(at 33.02 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "ce1d5931-2b8f-4016-9fe4-27615660b4a3")
 		)
@@ -6976,6 +7108,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 53.34 170.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23162"
 			(at 53.34 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -7069,6 +7212,17 @@
 			)
 		)
 		(property "KiLib_Generator" "SMD_2terminal_chip_molded"
+			(at 43.18 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C14663"
 			(at 43.18 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -7327,6 +7481,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C23345"
+			(at 34.29 77.47 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "86002f22-3aa2-4833-a76b-8f04a385058f")
 		)
@@ -7411,6 +7576,17 @@
 		)
 		(property "KiLib_Generator" "crystal_resonator_oscillator"
 			(at 34.29 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C12668"
+			(at 34.29 48.26 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7510,6 +7686,17 @@
 			)
 		)
 		(property "KiLib_Generator" "package/gullwing"
+			(at 93.98 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C44854 "
 			(at 93.98 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -7717,6 +7904,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 53.34 185.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C23162"
 			(at 53.34 185.42 0)
 			(hide yes)
 			(show_name no)
@@ -8042,6 +8240,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" "C1607"
+			(at 62.23 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "7aa70413-7fd8-4c61-9115-8092be0dad50")
 		)
@@ -8357,6 +8566,17 @@
 				)
 			)
 		)
+		(property "LCSC Part #" ""
+			(at 57.15 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "12091006-b653-4c95-aff3-1609f3b35793")
 		)
@@ -8518,6 +8738,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.88 161.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC Part #" "C25803"
 			(at 55.88 161.29 0)
 			(hide yes)
 			(show_name no)
